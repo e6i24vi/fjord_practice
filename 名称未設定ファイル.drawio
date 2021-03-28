@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T11:00:36.127Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jlQQeu-JDHFggJzJ_m0l" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T11:18:43.044Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zdWFkBxo3-Gz-kD8ExDK" version="14.5.3" type="github">
   <diagram id="reRC2S90iIJ_le8i9l70" name="ページ1">
     <mxGraphModel dx="1042" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,25 +44,13 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GRg4XNMcxb064cHyDar6-9" value="利用者ID" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="60" width="160" height="206" as="geometry" />
+          <mxGeometry x="350" y="60" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="GRg4XNMcxb064cHyDar6-10" value="利用者名（ふりがな）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GRg4XNMcxb064cHyDar6-14" value="利用者名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GRg4XNMcxb064cHyDar6-11" value="自宅電話番号" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GRg4XNMcxb064cHyDar6-13" value="携帯電話番号" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
-          <mxGeometry y="116" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GRg4XNMcxb064cHyDar6-15" value="FAX" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
-          <mxGeometry y="146" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GRg4XNMcxb064cHyDar6-16" value="勤務先電話番号" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="GRg4XNMcxb064cHyDar6-9">
-          <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GRg4XNMcxb064cHyDar6-26" value="図書ID" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="410" y="340" width="160" height="176" as="geometry" />
