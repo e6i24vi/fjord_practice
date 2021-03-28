@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T06:00:44.914Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="eZdJSeM3iU8vRzqCg-iv" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T06:10:49.650Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kax_-z6PPaO3uUBeaBVx" version="14.5.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="832" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object label="予約ID" id="TNxdtV54tGe8EJjGfUkj-1">
+        <object label="注文ID" id="TNxdtV54tGe8EJjGfUkj-1">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-            <mxGeometry x="90" y="150" width="160" height="146" as="geometry" />
+            <mxGeometry x="90" y="150" width="160" height="176" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="TNxdtV54tGe8EJjGfUkj-2" value="顧客ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
@@ -15,11 +15,14 @@
         <mxCell id="TNxdtV54tGe8EJjGfUkj-3" value="商品ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TNxdtV54tGe8EJjGfUkj-14" value="注文日時" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
+        <mxCell id="TNxdtV54tGe8EJjGfUkj-28" value="注文数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TNxdtV54tGe8EJjGfUkj-15" value="受渡日時" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
+        <mxCell id="TNxdtV54tGe8EJjGfUkj-14" value="注文日時" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNxdtV54tGe8EJjGfUkj-26" value="受渡日時" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TNxdtV54tGe8EJjGfUkj-1">
+          <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TNxdtV54tGe8EJjGfUkj-5" value="商品ID" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="160" height="116" as="geometry" />
